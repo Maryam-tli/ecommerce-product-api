@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt Classic",
+    "category": "Apparel",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 79.5
+  },
+  {
+    "id": 3,
+    "name": "Denim Jacket",
+    "category": "Apparel",
+    "price": 59
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 129.9
+  },
+  {
+    "id": 5,
+    "name": "Baseball Cap",
+    "category": "Apparel",
+    "price": 14.5
+  },
+  {
+    "id": 6,
+    "name": "Hoodie (Updated)",
+    "category": "Apparel",
+    "price": 39.99
+  }
+]
