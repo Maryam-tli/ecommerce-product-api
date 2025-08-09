@@ -28,11 +28,5 @@
     "name": "Baseball Cap",
     "category": "Apparel",
     "price": 14.5
-  },
-  {
-    "id": 6,
-    "name": "Hoodie (Updated)",
-    "category": "Apparel",
-    "price": 39.99
   }
 ]
